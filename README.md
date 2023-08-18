@@ -4,7 +4,7 @@ Hi 👋 My name is Alex Jung Celmer
 Software Architect
 --------------
 
-Graduated in Computer Science at Unijuí campus Santa Rosa/RS. More than 5 years of experience in the IT area, working in the analysis, full-stack and devOps development, implementation and management of IT projects. Knowledge in development of business management systems in different sectors and development of institutional websites, currently working on Vivo Brasil.
+Graduated in Computer Science at Unijuí campus Santa Rosa/RS. More than 5 years of experience in the IT area, working in the analysis, full-stack and devOps development, implementation and management of IT projects. Knowledge in development of business management systems in different sectors and development of institutional websites, currently working at Vivo Brasil.
 
 * 🌍  I'm based in Tuparendi - RS - Brazil
 * 🖥️  See my portfolio at [under construction](http://www.celmer.dev)
