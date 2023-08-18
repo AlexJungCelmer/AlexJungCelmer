@@ -10,7 +10,7 @@ Graduated in Computer Science at Unijuí campus Santa Rosa/RS. More than 5 years
 * 🖥️  See my portfolio at [under construction](http://www.celmer.dev)
 * ✉️  You can contact me at [Alex.Celmer@hotmail.com](mailto:Alex.Celmer@hotmail.com)
 * 🚀  I'm currently working on [Celmer-cms](http://www.github.com/AlexJungCelmer/celmer-cms/tree/main)
-* 🧠  I'm learning node.js
+* 🧠  I'm learning software architecture
 
 <a href="https://www.github.com/AlexJungCelmer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AlexJungCelmer?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
